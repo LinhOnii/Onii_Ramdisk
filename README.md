@@ -30,18 +30,12 @@ Checkm8 is a **BootROM vulnerability** that allows permanent **jailbreaking** an
 
 ## **📥 Installation & Usage**  
 ### **🔧 Prerequisites**  
-- macOS or Linux  
+- Windows OS
 - A compatible iDevice (A10–A11)  
 - USB-C to Lightning cable  
 
 ### **▶️ Steps to Use Onii Ramdisk**  
-1. **Put your device into DFU mode.**  
-2. **Run the following commands:**  
-   ```bash
-   git clone https://github.com/yourrepo/onii-ramdisk.git
-   cd onii-ramdisk
-   chmod +x onii_ramdisk.sh
-   ./onii_ramdisk.sh
+Watch it: https://youtu.be/yK28m3iXP84?si=5b2pNNweTXzkMBvR
    ```  
 3. **Follow on-screen instructions to complete the bypass.**  
 
@@ -52,7 +46,5 @@ This tool is **strictly for educational purposes** and for unlocking **personall
 
 📢 **Developer Contact:**  
 📌 Telegram: [@always_free_btw](https://t.me/always_free_btw) x [@linhdzvcl](https://t.me/linhdzvcl)  
-
-🔹 **License:** [MIT License](LICENSE)  
 
 ---
