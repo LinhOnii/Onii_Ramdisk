@@ -10,6 +10,12 @@ Onii Ramdisk is a **free iCloud bypass tool** based on the **Checkm8 exploit**. 
 🔹 **Supports:** A10–A11 devices (iPhone 6s to iPhone X)  
 🔹 **Exploit Used:** [Checkm8](https://github.com/axi0mX/ipwndfu)  
 
+⚠️ Disclaimer
+This tool is strictly for educational purposes and for unlocking personally owned devices. Do not use it for illegal activities. If this tool is misused for commercial gain, the project will be shut down to protect the developer’s reputation.
+
+📢 Developer Contact:
+📌 Telegram: @always_free_btw x @linhdzvcl
+
 ---
 
 ## **⚙️ How It Works**  
@@ -39,8 +45,3 @@ Watch it: https://youtu.be/yK28m3iXP84?si=5b2pNNweTXzkMBvR
    ```  
 3. **Follow on-screen instructions to complete the bypass.**  
 
-⚠️ Disclaimer
-This tool is strictly for educational purposes and for unlocking personally owned devices. Do not use it for illegal activities. If this tool is misused for commercial gain, the project will be shut down to protect the developer’s reputation.
-
-📢 Developer Contact:
-📌 Telegram: @always_free_btw x @linhdzvcl
