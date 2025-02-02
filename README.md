@@ -41,7 +41,8 @@ Watch it: https://youtu.be/yK28m3iXP84?si=5b2pNNweTXzkMBvR
 
 ---
 
-## **⚠️ Disclaimer**  
+
+### **⚠️ Disclaimer**  
 This tool is **strictly for educational purposes** and for unlocking **personally owned** devices. **Do not use it for illegal activities**. If this tool is misused for commercial gain, the project **will be shut down** to protect the developer’s reputation.  
 
 📢 **Developer Contact:**  
